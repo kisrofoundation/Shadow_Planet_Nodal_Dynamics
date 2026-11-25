@@ -7,7 +7,8 @@ Rahu and Ketu occupy an important position in ancient Indian astronomy, astrolog
 
 Contact Information
 
-Author: Dineshkumar Lalgi
+Author:- Dineshkumar Lalgi
+
 Position: Independent Researcher – Space Science
 Organisation: Kisro Foundation
 Research Interests: Astrophysics, Cosmology, Planetary Science and Hypothetical Cosmic Field Interactions.
