@@ -13,7 +13,8 @@ Organisation: Kisro Foundation
 Research Interests: Astrophysics, Cosmology, Planetary Science and Hypothetical Cosmic Field Interactions.
 
 Email: kisrofoundation@gmail.com
-       kisrochildhelp2032@gmail.com
+Email: kisrochildhelp2032@gmail.com
+
 Research Platforms:
 
 - "ORCID" (https://orcid.org/)
